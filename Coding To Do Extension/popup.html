@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <style>
+    body {
+      width: 400px;
+      padding: 15px;
+      font-family: Arial, sans-serif;
+    }
+    h2 {
+      margin: 0 0 15px 0;
+      font-size: 16px;
+    }
+    .status-msg {
+      padding: 10px;
+      border-radius: 4px;
+      margin-top: 10px;
+      text-align: center;
+      font-size: 13px;
+      font-weight: bold;
+    }
+    .success { background-color: #d4edda; color: #155724; }
+    .error { background-color: #f8d7da; color: #721c24; }
+    .warning { background-color: #fff3cd; color: #856404; }
+    .form-group {
+      margin-bottom: 10px;
+    }
+    label {
+      display: block;
+      font-size: 12px;
+      margin-bottom: 3px;
+      font-weight: bold;
+    }
+    input, select {
+      width: 100%;
+      padding: 8px;
+      border: 1px solid #ddd;
+      border-radius: 4px;
+      font-size: 13px;
+      box-sizing: border-box;
+    }
+    button {
+      width: 100%;
+      padding: 10px;
+      background-color: #4CAF50;
+      color: white;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      font-size: 14px;
+      margin-bottom: 10px;
+    }
+    button:hover {
+      background-color: #45a049;
+    }
+    button:disabled {
+      background-color: #cccccc;
+      cursor: not-allowed;
+    }
+    .secondary-btn {
+      background-color: #2196F3;
+    }
+    .secondary-btn:hover {
+      background-color: #0b7dda;
+    }
+    .danger-btn {
+      background-color: #f44336;
+    }
+    .danger-btn:hover {
+      background-color: #da190b;
+    }
+    .update-btn {
+      background-color: #ff9800;
+    }
+    .update-btn:hover {
+      background-color: #e68900;
+    }
+    .sidebar-btn {
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      font-size: 15px;
+      padding: 12px;
+    }
+    .sidebar-btn:hover {
+      background: linear-gradient(135deg, #5568d3 0%, #653a8b 100%);
+    }
+    #status {
+      padding: 10px;
+      border-radius: 4px;
+      margin-top: 10px;
+      text-align: center;
+      font-size: 13px;
+    }
+    .success {
+      background-color: #d4edda;
+      color: #155724;
+    }
+    .error {
+      background-color: #f8d7da;
+      color: #721c24;
+    }
+    .info {
+      background-color: #d1ecf1;
+      color: #0c5460;
+    }
+    .warning {
+      background-color: #fff3cd;
+      color: #856404;
+    }
+    .hidden {
+      display: none;
+    }
+    .page-info {
+      background-color: #f5f5f5;
+      padding: 10px;
+      border-radius: 4px;
+      margin-bottom: 15px;
+      font-size: 12px;
+    }
+    .page-info strong {
+      display: block;
+      margin-bottom: 5px;
+    }
+    .pending-count {
+      background-color: #fff3cd;
+      padding: 8px;
+      border-radius: 4px;
+      margin-bottom: 10px;
+      font-size: 13px;
+      text-align: center;
+      font-weight: bold;
+    }
+    .pending-list {
+      max-height: 200px;
+      overflow-y: auto;
+      margin-bottom: 10px;
+      border: 1px solid #ddd;
+      border-radius: 4px;
+    }
+    .pending-item {
+      padding: 8px;
+      border-bottom: 1px solid #eee;
+      font-size: 12px;
+    }
+    .pending-item:last-child {
+      border-bottom: none;
+    }
+    .pending-item strong {
+      display: block;
+      margin-bottom: 3px;
+    }
+    .section-divider {
+      border-top: 2px solid #ddd;
+      margin: 15px 0;
+    }
+    .existing-problem {
+      background-color: #e7f3ff;
+      padding: 10px;
+      border-radius: 4px;
+      margin-bottom: 15px;
+    }
+    .existing-problem strong {
+      display: block;
+      margin-bottom: 8px;
+      color: #0c5460;
+    }
+    .tab-container {
+      display: flex;
+      margin-bottom: 15px;
+      border-bottom: 2px solid #ddd;
+    }
+    .tab {
+      flex: 1;
+      padding: 10px;
+      text-align: center;
+      cursor: pointer;
+      background-color: #f5f5f5;
+      border: none;
+      font-size: 13px;
+      font-weight: bold;
+    }
+    .tab.active {
+      background-color: white;
+      border-bottom: 3px solid #4CAF50;
+    }
+    .tab-content {
+      display: none;
+    }
+    .tab-content.active {
+      display: block;
+    }
+  </style>
+</head>
+<body>
+  <h2>🎯 Problem Tracker</h2>
+
+  <!-- Open sidebar button -->
+  <button id="openSidebar" class="sidebar-btn">📊 Open Problem Manager</button>
+
+  <!-- Page info -->
+  <div id="pageInfo" class="page-info"></div>
+
+  <!-- Tabs -->
+  <div class="tab-container">
+    <button class="tab active" data-tab="add">Add Problem</button>
+    <button class="tab" data-tab="manage">Manage</button>
+  </div>
+
+  <!-- Add Problem Tab -->
+  <div id="addTab" class="tab-content active">
+    <!-- Check if problem exists -->
+    <div id="existingProblem" class="existing-problem hidden"></div>
+
+    <!-- Add problem form -->
+    <div id="addForm">
+      <div class="form-group">
+        <label>Problem Name</label>
+        <input type="text" id="problemName" placeholder="Enter problem name">
+      </div>
+
+      <div class="form-group">
+        <label>Platform</label>
+        <input type="text" id="platform" placeholder="e.g., Codeforces, DMOJ">
+      </div>
+
+      <div class="form-group">
+        <label>Link</label>
+        <input type="text" id="link" placeholder="Problem URL" readonly>
+      </div>
+
+      <div class="form-group">
+        <label id="difficultyLabel">Difficulty (DMOJ scale, 0 if unknown)</label>
+        <div style="display: flex; gap: 8px; align-items: center; margin-bottom: 8px;">
+          <label style="display: flex; align-items: center; gap: 5px; margin: 0; cursor: pointer;">
+            <input type="radio" name="ratingType" value="dmoj" checked>
+            <span style="font-weight: normal;">DMOJ</span>
+          </label>
+          <label style="display: flex; align-items: center; gap: 5px; margin: 0; cursor: pointer;">
+            <input type="radio" name="ratingType" value="cf">
+            <span style="font-weight: normal;">Codeforces</span>
+          </label>
+        </div>
+        <input type="number" id="difficulty" placeholder="0" value="0">
+      </div>
+
+      <div class="form-group">
+        <label>Tags (comma-separated)</label>
+        <input type="text" id="tags" placeholder="e.g., greedy, dp, graphs">
+      </div>
+
+      <button id="saveProblem">Save Problem to Browser</button>
+    </div>
+  </div>
+
+  <!-- Manage Tab -->
+  <div id="manageTab" class="tab-content">
+    <div id="pendingCount" class="pending-count hidden"></div>
+    <button id="syncToApp" class="update-btn hidden">🔄 Sync to Python App</button>
+    <div id="pendingList" class="pending-list hidden"></div>
+    <button id="viewPending" class="secondary-btn hidden">View Pending Problems</button>
+    <button id="exportPending" class="secondary-btn hidden">Export to JSON</button>
+    <button id="clearPending" class="danger-btn hidden">Clear All Pending</button>
+  </div>
+
+  <div id="status" class="hidden"></div>
+
+  <script src="popup.js"></script>
+</body>
+</html>
