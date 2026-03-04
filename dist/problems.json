@@ -1,0 +1,1513 @@
+[
+    {
+        "name": "Alpaca Distancing",
+        "platform": "DMOJ",
+        "link": "https://dmoj.ca/problem/aac1p6",
+        "difficulty": 12,
+        "status": "unsolved",
+        "type": [],
+        "cf_rating": 1400
+    },
+    {
+        "name": "Permutations & Primes",
+        "platform": "DMOJ",
+        "link": "https://dmoj.ca/problem/aac5p2hard",
+        "difficulty": 10,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1200
+    },
+    {
+        "name": "\u52a0\u5206\u4e8c\u53c9\u6811",
+        "platform": "Luogu",
+        "link": "https://www.luogu.com.cn/problem/P1040",
+        "difficulty": 17,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1800
+    },
+    {
+        "name": "\u5b50\u4e32",
+        "platform": "Luogu",
+        "link": "https://www.luogu.com.cn/problem/P2679",
+        "difficulty": 12,
+        "status": "unsolved",
+        "type": [],
+        "cf_rating": 1400
+    },
+    {
+        "name": "Asteroid Mining",
+        "platform": "DMOJ",
+        "link": "https://dmoj.ca/problem/cco25p1",
+        "difficulty": 15,
+        "status": "unsolved",
+        "type": [],
+        "cf_rating": 1650
+    },
+    {
+        "name": "\u795e\u7ecf\u7f51\u7edc",
+        "platform": "Luogu",
+        "link": "https://www.luogu.com.cn/problem/P1038",
+        "difficulty": 12,
+        "status": "unsolved",
+        "type": [],
+        "cf_rating": 1400
+    },
+    {
+        "name": "Minimum OR Path",
+        "platform": "AtCoder",
+        "link": "https://atcoder.jp/contests/abc408/tasks/abc408_e?lang=en",
+        "difficulty": 12,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1400
+    },
+    {
+        "name": "Trezor",
+        "platform": "DMOJ",
+        "link": "https://dmoj.ca/problem/coci08c4p5",
+        "difficulty": 25,
+        "status": "unsolved",
+        "type": [],
+        "cf_rating": 2300
+    },
+    {
+        "name": "Taming the Herd",
+        "platform": "USACO",
+        "link": "https://usaco.org/index.php?page=viewproblem2&cpid=809",
+        "difficulty": 10,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1200
+    },
+    {
+        "name": "Modern Art",
+        "platform": "USACO",
+        "link": "https://usaco.org/index.php?page=viewproblem2&cpid=737",
+        "difficulty": 12,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1400
+    },
+    {
+        "name": "Reachability and Tree",
+        "platform": "Codeforces",
+        "link": "https://codeforces.com/contest/2112/problem/D",
+        "difficulty": 10,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1200
+    },
+    {
+        "name": "Tree Colorings",
+        "platform": "Codeforces",
+        "link": "https://codeforces.com/contest/2112/problem/E",
+        "difficulty": 12,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1400
+    },
+    {
+        "name": "Race",
+        "platform": "USACO",
+        "link": "https://usaco.org/index.php?page=viewproblem2&cpid=989",
+        "difficulty": 10,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1200
+    },
+    {
+        "name": "Family Tree",
+        "platform": "USACO",
+        "link": "https://usaco.org/index.php?page=viewproblem2&cpid=833",
+        "difficulty": 10,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1200
+    },
+    {
+        "name": "Two Tables",
+        "platform": "Codeforces",
+        "link": "https://codeforces.com/problemset/problem/1555/B",
+        "difficulty": 10,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1200
+    },
+    {
+        "name": "Dima and Containers",
+        "platform": "Codeforces",
+        "link": "https://codeforces.com/problemset/problem/358/C",
+        "difficulty": 10,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1200
+    },
+    {
+        "name": "William and Robot",
+        "platform": "Codeforces",
+        "link": "https://codeforces.com/gym/104002/problem/E",
+        "difficulty": 10,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1200
+    },
+    {
+        "name": "Ciel and Duel",
+        "platform": "Codeforces",
+        "link": "https://codeforces.com/contest/321/problem/B",
+        "difficulty": 12,
+        "status": "unsolved",
+        "type": [],
+        "cf_rating": 1400
+    },
+    {
+        "name": "Yet Another Tournament",
+        "platform": "Codeforces",
+        "link": "https://codeforces.com/contest/1783/problem/C",
+        "difficulty": 12,
+        "status": "unsolved",
+        "type": [],
+        "cf_rating": 1400
+    },
+    {
+        "name": "Giant Domino",
+        "platform": "AtCoder",
+        "link": "https://atcoder.jp/contests/abc412/tasks/abc412_c",
+        "difficulty": 7,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 900
+    },
+    {
+        "name": "Make 2-Regular Graph",
+        "platform": "AtCoder",
+        "link": "https://atcoder.jp/contests/abc412/tasks/abc412_d",
+        "difficulty": 10,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1200
+    },
+    {
+        "name": "Binary String Battle",
+        "platform": "Codeforces",
+        "link": "https://codeforces.com/contest/2123/problem/D",
+        "difficulty": 10,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1200
+    },
+    {
+        "name": "Closest Cow Wins",
+        "platform": "USACO",
+        "link": "https://usaco.org/index.php?page=viewproblem2&cpid=1158",
+        "difficulty": 15,
+        "status": "unsolved",
+        "type": [],
+        "cf_rating": 1650
+    },
+    {
+        "name": "Make Geometric Sequence",
+        "platform": "AtCoder",
+        "link": "https://atcoder.jp/contests/abc413/tasks/abc413_d",
+        "difficulty": 10,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1200
+    },
+    {
+        "name": "Pretty Pens",
+        "platform": "DMOJ",
+        "link": "https://dmoj.ca/problem/ccc25s3",
+        "difficulty": 10,
+        "status": "unsolved",
+        "type": [],
+        "cf_rating": 1200
+    },
+    {
+        "name": "Multiple of 2019",
+        "platform": "AtCoder",
+        "link": "https://atcoder.jp/contests/abc164/tasks/abc164_d",
+        "difficulty": 12,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1400
+    },
+    {
+        "name": "Running Miles",
+        "platform": "Codeforces",
+        "link": "https://codeforces.com/contest/1826/problem/D",
+        "difficulty": 10,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1200
+    },
+    {
+        "name": "Squirrel Tag",
+        "platform": "DMOJ",
+        "link": "https://dmoj.ca/problem/wac4p3",
+        "difficulty": 12,
+        "status": "unsolved",
+        "type": [],
+        "cf_rating": 1400
+    },
+    {
+        "name": "Geese vs. Hawks",
+        "platform": "DMOJ",
+        "link": "https://dmoj.ca/problem/cco18p1",
+        "difficulty": 10,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1200
+    },
+    {
+        "name": "Palindrome",
+        "platform": "DMOJ",
+        "link": "https://dmoj.ca/problem/ioi00p1",
+        "difficulty": 10,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1200
+    },
+    {
+        "name": "Scrabble Nuts",
+        "platform": "DMOJ",
+        "link": "https://dmoj.ca/problem/rgpc17p5",
+        "difficulty": 12,
+        "status": "unsolved",
+        "type": [],
+        "cf_rating": 1400
+    },
+    {
+        "name": "Zapina",
+        "platform": "DMOJ",
+        "link": "https://dmoj.ca/problem/coci19c5p5",
+        "difficulty": 10,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1200
+    },
+    {
+        "name": "Personal Assistant",
+        "platform": "DMOJ",
+        "link": "https://dmoj.ca/problem/dmopc15c2p4",
+        "difficulty": 12,
+        "status": "unsolved",
+        "type": [],
+        "cf_rating": 1400
+    },
+    {
+        "name": "Coins",
+        "platform": "DMOJ",
+        "link": "https://dmoj.ca/problem/dpi",
+        "difficulty": 10,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1200
+    },
+    {
+        "name": "Longest Path",
+        "platform": "DMOJ",
+        "link": "https://dmoj.ca/problem/dpg",
+        "difficulty": 10,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1200
+    },
+    {
+        "name": "A coin problem",
+        "platform": "DMOJ",
+        "link": "https://dmoj.ca/problem/acoinproblem",
+        "difficulty": 12,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1400
+    },
+    {
+        "name": "G-C-D, Unlucky!",
+        "platform": "Codeforces",
+        "link": "https://codeforces.com/contest/2126/problem/E",
+        "difficulty": 10,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1200
+    },
+    {
+        "name": "1-1-1, Free Tree!",
+        "platform": "Codeforces",
+        "link": "https://codeforces.com/contest/2126/problem/F",
+        "difficulty": 12,
+        "status": "unsolved",
+        "type": [],
+        "cf_rating": 1400
+    },
+    {
+        "name": "Prime Bag",
+        "platform": "DMOJ",
+        "link": "https://dmoj.ca/problem/primebag",
+        "difficulty": 20,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 2000
+    },
+    {
+        "name": "Mean Sequence",
+        "platform": "DMOJ",
+        "link": "https://dmoj.ca/problem/ioi05p3",
+        "difficulty": 12,
+        "status": "unsolved",
+        "type": [],
+        "cf_rating": 1400
+    },
+    {
+        "name": "Dynamic Range Minimum Queries",
+        "platform": "CSES",
+        "link": "https://cses.fi/problemset/task/1649",
+        "difficulty": 10,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1200
+    },
+    {
+        "name": "Energy Harvesting",
+        "platform": "DMOJ",
+        "link": "https://dmoj.ca/problem/noi10p1",
+        "difficulty": 17,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1800
+    },
+    {
+        "name": "The beauty of cycles",
+        "platform": "DMOJ",
+        "link": "https://dmoj.ca/problem/noi16p3",
+        "difficulty": 30,
+        "status": "unsolved",
+        "type": [],
+        "cf_rating": 2600
+    },
+    {
+        "name": "\u4f20\u67d3\u75c5\u63a7\u5236",
+        "platform": "Luogu",
+        "link": "https://www.luogu.com.cn/problem/P1041",
+        "difficulty": 15,
+        "status": "unsolved",
+        "type": [],
+        "cf_rating": 1650
+    },
+    {
+        "name": "Memory Allocation",
+        "platform": "DMOJ",
+        "link": "https://dmoj.ca/problem/noi99p6",
+        "difficulty": 20,
+        "status": "unsolved",
+        "type": [],
+        "cf_rating": 2000
+    },
+    {
+        "name": "Concat (X-th)",
+        "platform": "AtCoder",
+        "link": "https://atcoder.jp/contests/abc416/tasks/abc416_c",
+        "difficulty": 7,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 900
+    },
+    {
+        "name": "Match, Mod, Minimize 2",
+        "platform": "AtCoder",
+        "link": "https://atcoder.jp/contests/abc416/tasks/abc416_d",
+        "difficulty": 10,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1200
+    },
+    {
+        "name": "A Mysterious Object",
+        "platform": "DMOJ",
+        "link": "https://dmoj.ca/problem/art7",
+        "difficulty": 12,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1400
+    },
+    {
+        "name": "A Digit Problem",
+        "platform": "DMOJ",
+        "link": "https://dmoj.ca/problem/adigitproblem",
+        "difficulty": 12,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1400
+    },
+    {
+        "name": "Binary Search Tree Test",
+        "platform": "DMOJ",
+        "link": "https://dmoj.ca/problem/ds4",
+        "difficulty": 15,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1650
+    },
+    {
+        "name": "Wowow",
+        "platform": "DMOJ",
+        "link": "https://dmoj.ca/problem/cco10p3",
+        "difficulty": 15,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1650
+    },
+    {
+        "name": "Grade 12 Math",
+        "platform": "DMOJ",
+        "link": "https://dmoj.ca/problem/dmopc19c6p4",
+        "difficulty": 15,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1650
+    },
+    {
+        "name": "Fun in F\u00f6r\u00e0g",
+        "platform": "DMOJ",
+        "link": "https://dmoj.ca/problem/lkp18c1p4",
+        "difficulty": 15,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1650
+    },
+    {
+        "name": "K-th Rank Student",
+        "platform": "DMOJ",
+        "link": "https://dmoj.ca/problem/ccoprep1p3",
+        "difficulty": 17,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1800
+    },
+    {
+        "name": "The Depressed Cashier",
+        "platform": "DMOJ",
+        "link": "https://dmoj.ca/problem/noi04p1",
+        "difficulty": 20,
+        "status": "unsolved",
+        "type": [],
+        "cf_rating": 2000
+    },
+    {
+        "name": "Walk",
+        "platform": "DMOJ",
+        "link": "https://dmoj.ca/problem/dpr",
+        "difficulty": 15,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1650
+    },
+    {
+        "name": "Counting Paths",
+        "platform": "DMOJ",
+        "link": "https://dmoj.ca/problem/graph1p1",
+        "difficulty": 10,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1200
+    },
+    {
+        "name": "Connected points",
+        "platform": "DMOJ",
+        "link": "https://dmoj.ca/problem/btoi07p5",
+        "difficulty": 15,
+        "status": "unsolved",
+        "type": [],
+        "cf_rating": 1650
+    },
+    {
+        "name": "Crazy Math",
+        "platform": "DMOJ",
+        "link": "https://dmoj.ca/problem/si17c1p5",
+        "difficulty": 15,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1650
+    },
+    {
+        "name": "Fibonacci Sequence",
+        "platform": "DMOJ",
+        "link": "https://dmoj.ca/problem/fibonacci",
+        "difficulty": 15,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1650
+    },
+    {
+        "name": "Fibonacci Sequence (Harder)",
+        "platform": "DMOJ",
+        "link": "https://dmoj.ca/problem/fibonacci2",
+        "difficulty": 17,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1800
+    },
+    {
+        "name": "Victor Makes Bank",
+        "platform": "DMOJ",
+        "link": "https://dmoj.ca/problem/dmopc20c1p4",
+        "difficulty": 15,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1650
+    },
+    {
+        "name": "Ray Needs Help",
+        "platform": "DMOJ",
+        "link": "https://dmoj.ca/problem/ray",
+        "difficulty": 20,
+        "status": "snoozed",
+        "type": [],
+        "cf_rating": 2000
+    },
+    {
+        "name": "Concatenation",
+        "platform": "DMOJ",
+        "link": "https://dmoj.ca/problem/ccoprep2p1",
+        "difficulty": 17,
+        "status": "unsolved",
+        "type": [],
+        "cf_rating": 1800
+    },
+    {
+        "name": "Bob and Continued Fractions",
+        "platform": "DMOJ",
+        "link": "https://dmoj.ca/problem/dmopc19c7p4",
+        "difficulty": 20,
+        "status": "unsolved",
+        "type": [],
+        "cf_rating": 2000
+    },
+    {
+        "name": "Tree Matching",
+        "platform": "CSES",
+        "link": "https://cses.fi/problemset/1130/",
+        "difficulty": 15,
+        "status": "unsolved",
+        "type": [],
+        "cf_rating": 1650
+    },
+    {
+        "name": "Independent Set",
+        "platform": "DMOJ",
+        "link": "https://dmoj.ca/problem/dpp",
+        "difficulty": 12,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1400
+    },
+    {
+        "name": "Cherry Tree",
+        "platform": "DMOJ",
+        "link": "https://dmoj.ca/problem/bts16p5",
+        "difficulty": 12,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1400
+    },
+    {
+        "name": "Tree Pruning",
+        "platform": "DMOJ",
+        "link": "https://dmoj.ca/problem/cco10p2",
+        "difficulty": 15,
+        "status": "unsolved",
+        "type": [],
+        "cf_rating": 1650
+    },
+    {
+        "name": "Another Cheese Problem",
+        "platform": "DMOJ",
+        "link": "https://dmoj.ca/problem/acc5p5",
+        "difficulty": 12,
+        "status": "unsolved",
+        "type": [],
+        "cf_rating": 1400
+    },
+    {
+        "name": "Painting the Barn",
+        "platform": "USACO",
+        "link": "https://usaco.org/index.php?page=viewproblem2&cpid=919",
+        "difficulty": 15,
+        "status": "unsolved",
+        "type": [],
+        "cf_rating": 1650
+    },
+    {
+        "name": "Breed Counting",
+        "platform": "USACO",
+        "link": "https://usaco.org/index.php?page=viewproblem2&cpid=572",
+        "difficulty": 7,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 900
+    },
+    {
+        "name": "Lifeguards",
+        "platform": "USACO",
+        "link": "https://usaco.org/index.php?page=viewproblem2&cpid=784",
+        "difficulty": 12,
+        "status": "unsolved",
+        "type": [],
+        "cf_rating": 1400
+    },
+    {
+        "name": "Movie Festival",
+        "platform": "CSES",
+        "link": "https://cses.fi/problemset/task/1629/",
+        "difficulty": 12,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1400
+    },
+    {
+        "name": "Berry Picking",
+        "platform": "USACO",
+        "link": "https://usaco.org/index.php?page=viewproblem2&cpid=990",
+        "difficulty": 12,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1400
+    },
+    {
+        "name": "Array Division",
+        "platform": "CSES",
+        "link": "https://cses.fi/problemset/task/1085",
+        "difficulty": 12,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1400
+    },
+    {
+        "name": "Selective Cutting",
+        "platform": "DMOJ",
+        "link": "https://dmoj.ca/problem/dmopc14c2p6",
+        "difficulty": 12,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1400
+    },
+    {
+        "name": "Inversion Count",
+        "platform": "SPOJ",
+        "link": "https://www.spoj.com/problems/INVCNT/",
+        "difficulty": 12,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1400
+    },
+    {
+        "name": "Subarray Sum Queries",
+        "platform": "CSES",
+        "link": "https://cses.fi/problemset/task/1190/",
+        "difficulty": 15,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1650
+    },
+    {
+        "name": "Dynamic Range Sum Queries",
+        "platform": "CSES",
+        "link": "https://cses.fi/alon/task/1648/",
+        "difficulty": 12,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1400
+    },
+    {
+        "name": "Farmer John's Favorite Operation",
+        "platform": "USACO",
+        "link": "https://usaco.org/index.php?page=viewproblem2&cpid=1471",
+        "difficulty": 10,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1200
+    },
+    {
+        "name": "Nuske vs Phantom Thnook",
+        "platform": "AtCoder",
+        "link": "https://atcoder.jp/contests/agc015/tasks/agc015_c",
+        "difficulty": 12,
+        "status": "unsolved",
+        "type": [],
+        "cf_rating": 1400
+    },
+    {
+        "name": "Social Distancing",
+        "platform": "USACO",
+        "link": "https://usaco.org/index.php?page=viewproblem2&cpid=1038",
+        "difficulty": 10,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1200
+    },
+    {
+        "name": "Angry Cows",
+        "platform": "USACO",
+        "link": "https://usaco.org/index.php?page=viewproblem2&cpid=597",
+        "difficulty": 12,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1400
+    },
+    {
+        "name": "Next Prime (Hard)",
+        "platform": "DMOJ",
+        "link": "https://dmoj.ca/problem/bf3hard",
+        "difficulty": 15,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1650
+    },
+    {
+        "name": "Inaho IX",
+        "platform": "DMOJ",
+        "link": "https://dmoj.ca/problem/inaho9",
+        "difficulty": 20,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 2000
+    },
+    {
+        "name": "A Fenwick Tree Question",
+        "platform": "DMOJ",
+        "link": "https://dmoj.ca/problem/olyrim2",
+        "difficulty": 15,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1650
+    },
+    {
+        "name": "Prefix Sum Array",
+        "platform": "DMOJ",
+        "link": "https://dmoj.ca/problem/tle15p5",
+        "difficulty": 15,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1650
+    },
+    {
+        "name": "Moocast",
+        "platform": "USACO",
+        "link": "https://usaco.org/index.php?page=viewproblem2&cpid=668",
+        "difficulty": 10,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1200
+    },
+    {
+        "name": "Dodatna",
+        "platform": "COCI",
+        "link": "https://evaluator.hsin.hr/events/coci26_2/tasks/HONI252625dodatna/",
+        "difficulty": 12,
+        "status": "unsolved",
+        "type": [],
+        "cf_rating": 1400
+    },
+    {
+        "name": "Rastu\u0107i",
+        "platform": "COCI",
+        "link": "https://evaluator.hsin.hr/events/coci26_2/tasks/HONI252627rastuci/",
+        "difficulty": 15,
+        "status": "unsolved",
+        "type": [],
+        "cf_rating": 1650
+    },
+    {
+        "name": "Flight Routes Check",
+        "platform": "CSES",
+        "link": "https://cses.fi/problemset/task/1682/",
+        "difficulty": 10,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1200
+    },
+    {
+        "name": "Wormhole sort",
+        "platform": "USACO",
+        "link": "https://usaco.org/index.php?page=viewproblem2&cpid=992&lang=en",
+        "difficulty": 12,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1400
+    },
+    {
+        "name": "Subarray Sum Constraints",
+        "platform": "CSES",
+        "link": "https://cses.fi/problemset/task/3294/",
+        "difficulty": 10,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1200
+    },
+    {
+        "name": "Split",
+        "platform": "Codeforces",
+        "link": "https://codeforces.com/contest/2158/problem/B",
+        "difficulty": 7,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 900
+    },
+    {
+        "name": "Connected Components?",
+        "platform": "Codeforces",
+        "link": "https://codeforces.com/problemset/problem/920/E",
+        "difficulty": 12,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1400
+    },
+    {
+        "name": "Multiplicative Inverse",
+        "platform": "LibreOJ",
+        "link": "https://loj.ac/p/110",
+        "difficulty": 10,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1200
+    },
+    {
+        "name": "Cereal 2",
+        "platform": "USACO",
+        "link": "https://usaco.org/index.php?page=viewproblem2&cpid=1184",
+        "difficulty": 15,
+        "status": "unsolved",
+        "type": [],
+        "cf_rating": 1650
+    },
+    {
+        "name": "Avoid Copyright Infringement",
+        "platform": "Codeforces",
+        "link": "https://codeforces.com/gym/106251/problem/F",
+        "difficulty": 7,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 900
+    },
+    {
+        "name": "Busy Beaver's Faulty Machine",
+        "platform": "Codeforces",
+        "link": "https://codeforces.com/gym/106251/problem/G",
+        "difficulty": 10,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1200
+    },
+    {
+        "name": "Cake Game",
+        "platform": "USACO",
+        "link": "https://usaco.org/index.php?page=viewproblem2&cpid=1446",
+        "difficulty": 7,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 900
+    },
+    {
+        "name": "Deforestation",
+        "platform": "USACO",
+        "link": "https://usaco.org/index.php?page=viewproblem2&cpid=1447",
+        "difficulty": 12,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1400
+    },
+    {
+        "name": "2D Conveyor Belt",
+        "platform": "USACO",
+        "link": "https://usaco.org/index.php?page=viewproblem2&cpid=1448",
+        "difficulty": 15,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1650
+    },
+    {
+        "name": "Meet in the Middle",
+        "platform": "CSES",
+        "link": "https://cses.fi/alon/task/1628",
+        "difficulty": 10,
+        "status": "unsolved",
+        "type": [],
+        "cf_rating": 1200
+    },
+    {
+        "name": "Fast Matrix Multiplication",
+        "platform": "DMOJ",
+        "link": "https://dmoj.ca/problem/matrixmultiplication",
+        "difficulty": 20,
+        "status": "snoozed",
+        "type": [],
+        "cf_rating": 2000
+    },
+    {
+        "name": "Queries",
+        "platform": "DMOJ",
+        "link": "https://dmoj.ca/problem/poi04s1p5",
+        "difficulty": 15,
+        "status": "unsolved",
+        "type": [],
+        "cf_rating": 1650
+    },
+    {
+        "name": "\u6c42\u548c",
+        "platform": "Luogu",
+        "link": "https://www.luogu.com.cn/problem/P2671",
+        "difficulty": 10,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1200
+    },
+    {
+        "name": "Multiplicative Inverse 2",
+        "platform": "LibreOJ",
+        "link": "https://loj.ac/p/161",
+        "difficulty": 12,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1400
+    },
+    {
+        "name": "Value of Expression",
+        "platform": "Luogu",
+        "link": "https://www.luogu.com.cn/problem/P1310",
+        "difficulty": 12,
+        "status": "unsolved",
+        "type": [],
+        "cf_rating": 1400
+    },
+    {
+        "name": "Shuffling",
+        "platform": "Luogu",
+        "link": "https://www.luogu.com.cn/problem/P2054",
+        "difficulty": 15,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1650
+    },
+    {
+        "name": "Modular Congruence Equation",
+        "platform": "LibreOJ",
+        "link": "https://loj.ac/p/2605",
+        "difficulty": 10,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1200
+    },
+    {
+        "name": "Permutative Counting",
+        "platform": "LibreOJ",
+        "link": "https://loj.ac/p/2034",
+        "difficulty": 12,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1400
+    },
+    {
+        "name": "Sort Arrays",
+        "platform": "AtCoder",
+        "link": "https://atcoder.jp/contests/abc437/tasks/abc437_e",
+        "difficulty": 12,
+        "status": "unsolved",
+        "type": [],
+        "cf_rating": 1400
+    },
+    {
+        "name": "Topographical Sort",
+        "platform": "DMOJ",
+        "link": "https://dmoj.ca/problem/aaaa1p3",
+        "difficulty": 12,
+        "status": "unsolved",
+        "type": [],
+        "cf_rating": 1400
+    },
+    {
+        "name": "Swapping Seats",
+        "platform": "DMOJ",
+        "link": "https://dmoj.ca/problem/ccc20s4",
+        "difficulty": 12,
+        "status": "unsolved",
+        "type": [],
+        "cf_rating": 1400
+    },
+    {
+        "name": "Blackslex and Girls",
+        "platform": "Codeforces",
+        "link": "https://codeforces.com/contest/2179/problem/E",
+        "difficulty": 10,
+        "status": "unsolved",
+        "type": [],
+        "cf_rating": 1200
+    },
+    {
+        "name": "Kevin and And",
+        "platform": "Codeforces",
+        "link": "https://codeforces.com/contest/2061/problem/E",
+        "difficulty": 12,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1400
+    },
+    {
+        "name": "Sequence Construction",
+        "platform": "USACO",
+        "link": "https://usaco.org/index.php?page=viewproblem2&cpid=1518",
+        "difficulty": 12,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1400
+    },
+    {
+        "name": "Deleting Divisors",
+        "platform": "Codeforces",
+        "link": "https://codeforces.com/problemset/problem/1537/D",
+        "difficulty": 10,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1200
+    },
+    {
+        "name": "Circle Game",
+        "platform": "Codeforces",
+        "link": "https://codeforces.com/problemset/problem/1451/D",
+        "difficulty": 10,
+        "status": "solving",
+        "type": [],
+        "cf_rating": 1200
+    },
+    {
+        "name": "The Pilots Brothers' refrigerator",
+        "platform": "Luogu",
+        "link": "https://www.luogu.com.cn/problem/P10456",
+        "difficulty": 10,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1200
+    },
+    {
+        "name": "Corral the Cows",
+        "platform": "Luogu",
+        "link": "https://www.luogu.com.cn/problem/P2862",
+        "difficulty": 7,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 900
+    },
+    {
+        "name": "Rectangular Pasture",
+        "platform": "USACO",
+        "link": "https://usaco.org/index.php?page=viewproblem2&cpid=1063",
+        "difficulty": 12,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1400
+    },
+    {
+        "name": "Shortest Hamiltonian Route",
+        "platform": "Luogu",
+        "link": "https://www.luogu.com.cn/problem/P10447",
+        "difficulty": 10,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1200
+    },
+    {
+        "name": "Tree Diameter",
+        "platform": "CSES",
+        "link": "https://cses.fi/problemset/task/1131",
+        "difficulty": 7,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 900
+    },
+    {
+        "name": "Tree Distances I",
+        "platform": "CSES",
+        "link": "https://cses.fi/problemset/task/1132",
+        "difficulty": 10,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1200
+    },
+    {
+        "name": "Tree Distances II",
+        "platform": "CSES",
+        "link": "https://cses.fi/problemset/task/1133",
+        "difficulty": 10,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1200
+    },
+    {
+        "name": "High Card Low Card",
+        "platform": "USACO",
+        "link": "http://www.usaco.org/index.php?page=viewproblem2&cpid=573",
+        "difficulty": 10,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1200
+    },
+    {
+        "name": "Bubble Sort Rounds II",
+        "platform": "CSES",
+        "link": "https://cses.fi/problemset/task/3152/",
+        "difficulty": 12,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1400
+    },
+    {
+        "name": "Stick Division",
+        "platform": "CSES",
+        "link": "https://cses.fi/problemset/task/1161",
+        "difficulty": 7,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 900
+    },
+    {
+        "name": "Exquisite Array",
+        "platform": "Codeforces",
+        "link": "https://codeforces.com/contest/2184/problem/E",
+        "difficulty": 10,
+        "status": "unsolved",
+        "type": [],
+        "cf_rating": 1200
+    },
+    {
+        "name": "Planets Cycles",
+        "platform": "CSES",
+        "link": "https://cses.fi/problemset/task/1751",
+        "difficulty": 7,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 900
+    },
+    {
+        "name": "Sub-RBS (Easy Version)",
+        "platform": "Codeforces",
+        "link": "https://codeforces.com/contest/2191/problem/D1",
+        "difficulty": 7,
+        "cf_rating": 900,
+        "status": "unsolved",
+        "type": []
+    },
+    {
+        "name": "Mooclear Reactor",
+        "platform": "USACO",
+        "link": "https://usaco.org/index.php?page=viewproblem2&cpid=1543",
+        "difficulty": 12,
+        "cf_rating": 1400,
+        "status": "unsolved",
+        "type": []
+    },
+    {
+        "name": "A > B substring",
+        "platform": "AtCoder",
+        "link": "https://atcoder.jp/contests/abc441/tasks/abc441_e",
+        "difficulty": 12,
+        "status": "unsolved",
+        "type": [],
+        "cf_rating": 1400
+    },
+    {
+        "name": "Sliding Window Summation",
+        "platform": "USACO",
+        "link": "https://usaco.org/index.php?page=viewproblem2&cpid=1544",
+        "difficulty": 12,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1400
+    },
+    {
+        "name": "COW Traversals",
+        "platform": "USACO",
+        "link": "https://usaco.org/index.php?page=viewproblem2&cpid=1545",
+        "difficulty": 12,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1400
+    },
+    {
+        "name": "Intersection Points",
+        "platform": "CSES",
+        "link": "https://cses.fi/problemset/task/1740",
+        "difficulty": 12,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1400
+    },
+    {
+        "name": "Cow Checkups",
+        "platform": "USACO",
+        "link": "https://usaco.org/index.php?page=viewproblem2&cpid=1470&lang=en",
+        "difficulty": 12,
+        "status": "unsolved",
+        "type": [],
+        "cf_rating": 1400
+    },
+    {
+        "name": "Carrots for Rabbits",
+        "platform": "Codeforces",
+        "link": "https://codeforces.com/problemset/problem/1428/E",
+        "difficulty": 23,
+        "status": "unsolved",
+        "type": [],
+        "cf_rating": 2200
+    },
+    {
+        "name": "A Noteworthy Debut",
+        "platform": "Codeforces",
+        "link": "https://codeforces.com/gym/105109/problem/C",
+        "difficulty": 17,
+        "status": "unsolved",
+        "type": [],
+        "cf_rating": 1800
+    },
+    {
+        "name": "Interstellar Intervals",
+        "platform": "USACO",
+        "link": "https://usaco.org/index.php?page=viewproblem2&cpid=1450&lang=en",
+        "difficulty": 15,
+        "status": "unsolved",
+        "type": [],
+        "cf_rating": 1650
+    },
+    {
+        "name": "Area of Rectangles",
+        "platform": "CSES",
+        "link": "https://cses.fi/alon/task/1741",
+        "difficulty": 12,
+        "status": "unsolved",
+        "type": [],
+        "cf_rating": 1400
+    },
+    {
+        "name": "Divisions",
+        "platform": "Codeforces",
+        "link": "https://codeforces.com/gym/100753/attachments",
+        "difficulty": 17,
+        "status": "unsolved",
+        "type": [],
+        "cf_rating": 1800
+    },
+    {
+        "name": "Maximum Building II",
+        "platform": "CSES",
+        "link": "https://cses.fi/problemset/task/1148",
+        "difficulty": 12,
+        "status": "unsolved",
+        "type": [],
+        "cf_rating": 1400
+    },
+    {
+        "name": "Just Green Enough",
+        "platform": "USACO",
+        "link": "https://usaco.org/index.php?page=viewproblem2&cpid=1112",
+        "difficulty": 12,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1400
+    },
+    {
+        "name": "Min Max Sort",
+        "platform": "Codeforces",
+        "link": "https://codeforces.com/contest/1792/problem/C",
+        "difficulty": 13,
+        "status": "solved",
+        "type": [],
+        "cf_rating": 1500
+    },
+    {
+        "name": "Three Base Stations",
+        "platform": "Codeforces",
+        "link": "https://codeforces.com/contest/51/problem/C",
+        "difficulty": 11,
+        "status": "unsolved",
+        "type": [],
+        "cf_rating": 1300
+    },
+    {
+        "name": "Replace the Numbers",
+        "platform": "Codeforces",
+        "link": "https://codeforces.com/contest/1620/problem/E",
+        "difficulty": 19,
+        "status": "unsolved",
+        "type": [],
+        "cf_rating": 1900
+    },
+    {
+        "name": "Cow-libi 2",
+        "platform": "usaco.org",
+        "link": "https://usaco.org/index.php?page=viewproblem&cpid=1554",
+        "difficulty": 10,
+        "status": "solved",
+        "type": [
+            "ad hoc"
+        ],
+        "cf_rating": 1200
+    },
+    {
+        "name": "Declining Invitations",
+        "platform": "usaco.org",
+        "link": "https://usaco.org/index.php?page=viewproblem&cpid=1555",
+        "difficulty": 12,
+        "status": "solving",
+        "type": [
+            "data structures"
+        ],
+        "cf_rating": 1400
+    },
+    {
+        "name": "Pawn Line",
+        "platform": "AtCoder",
+        "link": "https://atcoder.jp/contests/abc443/tasks/abc443_d",
+        "difficulty": 12,
+        "status": "unsolved",
+        "type": [
+            "sorting"
+        ],
+        "cf_rating": 1400
+    },
+    {
+        "name": "Subtree Queries",
+        "platform": "cses.fi",
+        "link": "https://cses.fi/problemset/task/1137",
+        "difficulty": 12,
+        "status": "solved",
+        "type": [
+            "data structures",
+            "graph theory"
+        ],
+        "cf_rating": 1400
+    },
+    {
+        "name": "Path Queries",
+        "platform": "cses.fi",
+        "link": "https://cses.fi/problemset/task/1138",
+        "difficulty": 12,
+        "status": "solving",
+        "type": [
+            "data structures",
+            "graph theory"
+        ],
+        "cf_rating": 1400
+    },
+    {
+        "name": "CCO '08 P2 - King & Weber                                                                                                                View as PDF",
+        "platform": "DMOJ",
+        "link": "https://dmoj.ca/problem/cco08p2",
+        "difficulty": 10,
+        "status": "solving",
+        "type": [
+            "graph theory"
+        ],
+        "cf_rating": 1200
+    },
+    {
+        "name": "Reindeer Racing                                                                                                                View as PDF",
+        "platform": "DMOJ",
+        "link": "https://dmoj.ca/problem/aac4p4",
+        "difficulty": 10,
+        "status": "unsolved",
+        "type": [
+            "greedy algorithms"
+        ],
+        "cf_rating": 1200
+    },
+    {
+        "name": "Table Cut",
+        "platform": "Codeforces",
+        "link": "https://codeforces.com/contest/2194/problem/D",
+        "difficulty": 11,
+        "status": "solved",
+        "type": [
+            "greedy algorithms",
+            "constructive algorithms"
+        ],
+        "cf_rating": 1300
+    },
+    {
+        "name": "CCC Bad Haha                                                                                                                View as PDF",
+        "platform": "DMOJ",
+        "link": "https://dmoj.ca/problem/canada21p3",
+        "difficulty": 12,
+        "status": "unsolved",
+        "type": [
+            "greedy algorithms"
+        ],
+        "cf_rating": 1400
+    },
+    {
+        "name": "Subsets                                                                                                                View as PDF",
+        "platform": "DMOJ",
+        "link": "https://dmoj.ca/problem/cco00p1",
+        "difficulty": 10,
+        "status": "unsolved",
+        "type": [
+            "graph theory"
+        ],
+        "cf_rating": 1200
+    },
+    {
+        "name": "Floor is Lava                                                                                                                View as PDF",
+        "platform": "DMOJ",
+        "link": "https://dmoj.ca/problem/ccc25s4",
+        "difficulty": 12,
+        "status": "solved",
+        "type": [
+            "graph theory"
+        ],
+        "cf_rating": 1400
+    },
+    {
+        "name": "Diferencija                                                                                                                View as PDF",
+        "platform": "DMOJ",
+        "link": "https://dmoj.ca/problem/coci10c3p5",
+        "difficulty": 12,
+        "status": "solved",
+        "type": [
+            "data structures"
+        ],
+        "cf_rating": 1400
+    },
+    {
+        "name": "Many LCMs",
+        "platform": "AtCoder",
+        "link": "https://atcoder.jp/contests/abc445/tasks/abc445_e",
+        "difficulty": 12,
+        "status": "solving",
+        "type": [
+            "math",
+            "number theory"
+        ],
+        "cf_rating": 1400
+    },
+    {
+        "name": "Exactly K Steps 2",
+        "platform": "AtCoder",
+        "link": "https://atcoder.jp/contests/abc445/tasks/abc445_f",
+        "difficulty": 12,
+        "status": "unsolved",
+        "type": [
+            "math"
+        ],
+        "cf_rating": 1400
+    },
+    {
+        "name": "Palindromic Poster                                                                                                                View as PDF",
+        "platform": "DMOJ",
+        "link": "https://dmoj.ca/problem/ccc23s3",
+        "difficulty": 10,
+        "status": "snoozed",
+        "type": [
+            "construction",
+            "ad hoc"
+        ],
+        "cf_rating": 1200
+    }
+]
